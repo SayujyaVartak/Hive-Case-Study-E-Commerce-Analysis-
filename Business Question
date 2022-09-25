@@ -1,0 +1,10 @@
+## You are required to provide answers to the questions given below.
+
+* Find the total revenue generated due to purchases made in October.
+* Write a query to yield the total sum of purchases per month in a single output. 
+* Write a query to find the change in revenue generated due to purchases from October to November.
+* Find distinct categories of products. Categories with null category code can be ignored.
+* Find the total number of products available under each category.
+* Which brand had the maximum sales in October and November combined?
+* Which brands increased their sales from October to November?
+* Your company wants to reward the top 10 users of its website with a Golden Customer plan. Write a query to generate a list of top 10 users who spend the most.
